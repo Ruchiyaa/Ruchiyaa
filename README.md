@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruchiyaa&label=Profile%20views&color=0e75b6&style=flat" alt="ruchiyaa" /> </p>
 
-- 🌿 I’m currently learning **C# & MY SQL **
+- 🌿 I’m currently learning C#
 
 - 🧑‍🎓 I’m an **undergraduate at Esoft**
 
