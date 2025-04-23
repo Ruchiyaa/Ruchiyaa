@@ -12,21 +12,17 @@
 
 - 📫 How to reach me **ruchithnek@gmail.com**
 
-<h3 align="center">My Statistics:</h3>
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
+<h3 align="center">📊 My Statistics</h3>
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Ruchiyaa&theme=dark&show_icons=true&count_private=true" width = 800px/>
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Scar110&theme=dark&hide_border=false" /> 
-</td>
-<td width="50%" align="center">
+<table align="center" width="100%">
+  <tr>
+    <!-- GitHub Stats Left -->
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=Ruchiyaa&theme=onedark&show_icons=true&count_private=true&hide_border=true&border_radius=8" width="90%" />
+    </td>
 
-
-  </td>
-</tr>
+    
+  </tr>
 </table>
 
 <h3 align="center">Connect with me:</h3>
